@@ -1,6 +1,6 @@
 # AI Image Generator Tool
 
-This project is a simple AI Image Generator Tool implemented using Flask, HTML, CSS, and JavaScript. The tool allows users to convert their text descriptions into images using a JavaScript-powered AI Image Generator. The generated images are displayed in a user-friendly web interface.
+This project is a AI Image Generator Tool implemented using Flask, HTML, CSS, and JavaScript. The tool allows users to convert their text descriptions into images using a JavaScript-powered AI Image Generator. The generated images are displayed in a user-friendly web interface.
 
 ## Getting Started
 
